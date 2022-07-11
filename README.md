@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappa1111&layout=demo 스타일&theme=marko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kappa1111&layout=demo&theme=marko)
 
 <!--
 **kappa1111/kappa1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappa1111&show_icons=true&theme=merko)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuki205)](https://solved.ac/kuki205/)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kappa1111&show_icons=true&theme=merko)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuki205)](https://solved.ac/kuki205/)
 
 ### :clipboard: Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
